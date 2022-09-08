@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "ahul",
+      "email": "ahul@gmail.com",
+      "password": "assword"
+    },
+    {
+      "id": 3,
+      "name": "sohul",
+      "email": "sahul@gmail.com",
+      "password": "sassword"
+    },
+    {
+      "name": "rahul dhannarapu",
+      "id": "4",
+      "email": "rahuldhannarapu@gmail.com",
+      "password": "kkfkfkk"
+    },
+    {
+      "name": "rahul dhannarapu sksks",
+      "id": "5",
+      "email": "rahuldhannarasssspu@gmail.com",
+      "password": "14"
+    },
+    {
+      "name": "G SANJAY TEJA",
+      "id": "6",
+      "email": "sanjayteja2001@gmail.com",
+      "password": "a"
+    },
+    {
+      "name": "rahman",
+      "id": "7",
+      "email": "rahul@gmail.com",
+      "password": "kkkol"
+    },
+    {
+      "name": "rahm",
+      "id": "8",
+      "email": "rahul@gmail.com",
+      "password": ""
+    },
+    {
+      "name": "zabee",
+      "id": "9",
+      "email": "zabee@gmail.com",
+      "password": "s12345"
+    },
+    {
+      "name": "sushma",
+      "id": "10",
+      "email": "sushma@gmail.com",
+      "password": "qwertyuiop"
+    },
+    {
+      "name": "DHANNARAPU RAHUL",
+      "id": "12",
+      "email": "asma@gmail.com",
+      "password": "79peie "
+    },
+    {
+      "name": "njncjjc",
+      "id": "13",
+      "email": "rahuldhannarapu@gmail.com",
+      "password": "jehehee"
+    },
+    {
+      "name": "gani",
+      "id": "14",
+      "email": "ganesh@gmail.com",
+      "password": "ganesh"
+    },
+    {
+      "name": "gani",
+      "id": "15",
+      "email": "ganesh@gmail.com",
+      "password": "ganesh"
+    }
+  ]
+}
